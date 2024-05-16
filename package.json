@@ -1,0 +1,20 @@
+{
+    "name": "productmanager",
+    "type": "module",
+    "version": "1.0.0",
+    "description": "desafío numero 1 para el curso de BackEnd de Coder House 2024",
+    "main": "app.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "express": "^4.19.2",
+      "express-handlebars": "^7.1.2",
+      "multer": "^1.4.5-lts.1",
+      "socket.io": "^4.7.5"
+    }
+  }
+  
